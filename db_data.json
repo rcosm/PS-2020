@@ -1,0 +1,31 @@
+{
+	"user": [
+		{
+			"username": "rcosma",
+			"password": "rcosma",
+			"name": "Rares Cosma"
+		},
+		{
+			"username": "vcosma",
+			"password": "vcosma",
+			"name": "Vasile Cosma"
+		}
+	],
+	"tag": [
+		{
+			"name": "exploratory"
+		},
+		{
+			"name": "functional"
+		}
+	],
+	"product": [
+		{
+			"name": "Money Tracker"
+		},
+		{
+			"name": "Distributed Testing Facility"
+		}
+	]
+
+}
