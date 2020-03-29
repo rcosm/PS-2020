@@ -1,0 +1,12 @@
+language: python
+
+python:
+  - "3.8"
+
+install:
+  - pip install sqlalchemy
+  - pip install --upgrade pip
+  - python init_db.py
+
+script:
+  - product.py
