@@ -9,7 +9,4 @@ install:
   - python init_db.py
 
 script:
-  - product.py
-
-os: 
-  - windows
+  - python product.py
